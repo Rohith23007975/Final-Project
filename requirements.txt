@@ -1,0 +1,10 @@
+flask
+requests
+beautifulsoup4
+pandas
+numpy
+langdetect
+scikit-learn
+seaborn
+matplotlib
+wordcloud
