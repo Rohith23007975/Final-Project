@@ -71,13 +71,13 @@ curl -X POST "http://127.0.0.1:5000/recommend" -H "Content-Type: application/jso
     {
       "name": "Spicy Tomato Curry",
       "Difficulty": "Medium",
-      "url": "https://somefoodsite.com/spicy-tomato-curry",
+      "url": "https://ndtvfood.com/spicy-tomato-curry",
       "time": "30 mins"
     },
     {
       "name": "Garlic Tomato Pasta",
       "Difficulty": "Easy",
-      "url": "https://somefoodsite.com/garlic-tomato-pasta",
+      "url": "https://ndtvfood.com/garlic-tomato-pasta",
       "time": "25 mins"
     }
   ]
