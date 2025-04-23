@@ -38,7 +38,7 @@ KitchenWise is a smart recipe recommendation system API that helps you cook deli
 
 ### 1. Install Requirements
 ```bash
-pip install flask pandas numpy scikit-learn
+pip install -r requirements.txt
 ```
 
 ### 2. Start the API Server
